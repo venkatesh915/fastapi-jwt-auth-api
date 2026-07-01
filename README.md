@@ -59,3 +59,10 @@ fastapi-jwt-auth-api/
 ```bash
 git clone https://github.com/venkatesh915/fastapi-jwt-auth-api.git
 cd fastapi-jwt-auth-api
+
+
+2️⃣ Run with Docker (Recommended)
+docker compose up --build
+
+2️⃣ Run with Docker (Recommended)
+docker compose up --build
